@@ -1,0 +1,12 @@
+<?php
+
+use vendor\core\Migration;
+
+require 'C:\MAMP\htdocs\library\config\constants.php';
+
+spl_autoload_register(function ($class) {
+    $file = ROOT . '/' . str_replace('\\', '/', $class) . '.php';
+    if (is_file($file)) require_once $file;
+});
+    $m = new Migration();
+    $m->migrate();

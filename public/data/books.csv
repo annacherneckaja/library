@@ -1,0 +1,25 @@
+id;name;pages;year;isbn;description;image
+1;СИ++ И КОМПЬЮТЕРНАЯ ГРАФИКА;;;;;1.jpg
+2;Программирование на языке Go!;;;;;2.jpg
+3;Толковый словарь сетевых терминов и аббревиатур;;;;;3.jpg
+4;Python for Data Analysis;;;;;4.jpg
+5;Thinking in Java (4th Edition);;;;;5.jpg
+6;Introduction to Algorithms;;;;;6.jpg
+7;JavaScript Pocket Reference;;;;;7.jpg
+8;Adaptive Code via C#: Class and Interface Design, Design Patterns, and SOLID Principles;;;;;8.jpg
+9;SQL: The Complete Referenc;;;;;9.jpg
+10;PHP and MySQL Web Development;;;;;10.jpg
+11;Статистический анализ и визуализация данных с помощью R;;;;;11.jpg
+12;Computer Coding for Kid;;;;;12.jpg
+13;Exploring Arduino: Tools and Techniques for Engineering Wizardry;;;;;13.jpg
+14;Программирование микроконтроллеров для начинающих и не только;;;;;14.jpg
+15;The Internet of Things;;;;;15.jpg
+16;Sketching User Experiences: The Workbook;;;;;16.jpg
+17;InDesign CS6;;;;;17.jpg
+18;Адаптивный дизайн. Делаем сайты для любых устройств;;;;;18.jpg
+19;Android для разработчиков;;;;;19.jpg
+20;Clean Code: A Handbook of Agile Software Craftsmanship;;;;;20.jpg
+21;Swift Pocket Reference: Programming for iOS and OS X;;;;;21.jpg
+22;NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence;;;;;22.jpg
+23;Head First Ruby;;;;;23.jpg
+24;Practical Vim;;;;;24.jpg
